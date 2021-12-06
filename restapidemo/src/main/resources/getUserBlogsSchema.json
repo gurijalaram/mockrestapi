@@ -1,0 +1,24 @@
+{
+  "createdAt": "2021-12-03T11:02:51.728Z",
+  "title": "We need to program the redundant RAM capacitor!",
+  "content": "Use the multi-byte JSON card, then you can generate the auxiliary microchip!",
+  "blogId": "19",
+  "userId": "1",
+  "user": {
+    "createdAt": "2021-11-18T16:05:13.117Z",
+    "name": "Johnathan Romaguera",
+    "email": "Zora.Kutch42@gmail.com",
+    "avatar": "https://cdn.fakercloud.com/avatars/uxward_128.jpg",
+    "userId": "1"
+  },
+  "likes": [
+    {
+      "id": "19",
+      "blogId": "19"
+    },
+    {
+      "id": "81",
+      "blogId": "19"
+    }
+  ]
+}
